@@ -7,19 +7,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadressa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Tecnologias que possuo proeficiência
 
 <div style="display: inline-block";><br/>
 
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
